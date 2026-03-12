@@ -1,8 +1,9 @@
-## Hi 👋, I'm Elias Severino</h1>
+## Hi 👋, I'm Elias Severino
 
 -  **Software Engineer** focused on full-stack development and scalable architectures.
 -  **Content Creator** sharing knowledge about technology and programming.
 -  Experienced in building web applications with modern frameworks.
+-  For contact: eliascvrno@gmail.com
 
 ### 🛠 Technical Stack
 | Area | Technologies |
@@ -16,9 +17,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/severinodev/">
     <img src="https://img.shields.io/badge/LinkedIn-242938?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eliascvrno@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-242938?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://youtube.com/@severinodev">
     <img src="https://img.shields.io/badge/YouTube-242938?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
