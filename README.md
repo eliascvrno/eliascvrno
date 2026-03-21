@@ -18,7 +18,4 @@
   <a href="https://www.linkedin.com/in/severinodev/">
     <img src="https://img.shields.io/badge/LinkedIn-242938?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://youtube.com/@severinodev">
-    <img src="https://img.shields.io/badge/YouTube-242938?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
