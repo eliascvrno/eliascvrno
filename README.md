@@ -12,10 +12,3 @@
 | **Backend & API** | ![Python](https://img.shields.io/badge/Python-242938?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-242938?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-242938?style=flat-square&logo=fastapi&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-242938?style=flat-square&logo=pytest&logoColor=white) |
 | **Cloud & DB** | ![GCP](https://img.shields.io/badge/Google_Cloud-242938?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-242938?style=flat-square&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242938?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-242938?style=flat-square&logo=mongodb&logoColor=white) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-242938?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-242938?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-242938?style=flat-square&logo=docker&logoColor=white) |
-
-### 💬 Conect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/severinodev/">
-    <img src="https://img.shields.io/badge/LinkedIn-242938?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
