@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Elias Severino
 
 -  **Software Engineer** focused on full-stack development and scalable architectures.
--  **Content Creator** sharing knowledge about technology and programming.
 -  Experienced in building web applications with modern frameworks.
 -  For contact: eliascvrno@gmail.com
 
