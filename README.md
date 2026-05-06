@@ -2,7 +2,6 @@
 
 -  **Software Engineer** focused on full-stack development and scalable architectures.
 -  Experienced in building web applications with modern frameworks.
--  For contact: eliascvrno@gmail.com
 
 ### 🛠 Technical Stack
 | Area | Technologies |
