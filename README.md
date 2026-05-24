@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 ## 👨‍🎓 About Me
 I am a passionate **Software Engineering Student** focused on building efficient, scalable, and user-centric applications. I love automation, clean code, and creating tools that improve people's daily lives. 
 
