@@ -32,8 +32,8 @@ I am a passionate **Software Engineering Student** focused on building efficient
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascvrino/)
-[![YouTube](https://img.shields.io/badge/YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eliascvrino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascvrno/)
+[![YouTube](https://img.shields.io/badge/YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eliascvrno)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliascvrno@gmail.com)
 
 ---
