@@ -23,8 +23,6 @@ I am a passionate **Software Engineering Student** focused on building efficient
 ### DevOps, Cloud & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-555555?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-555555?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
