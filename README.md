@@ -10,8 +10,8 @@ I am a passionate **Software Engineering Student** focused on building efficient
 ## 🛠️ Tech Stack & Skills
 
 ### Backend & Data Core
-![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-555555?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-555555?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -25,9 +25,6 @@ I am a passionate **Software Engineering Student** focused on building efficient
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-555555?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliascvrno/)
-[![YouTube](https://img.shields.io/badge/YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eliascvrno)
 [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliascvrno@gmail.com)
