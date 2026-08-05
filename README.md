@@ -1,5 +1,3 @@
-# Hi there, I'm Elias Severino 👋
-
 Software Engineer Student & Full-Stack Developer based in Ecuador. I specialize in building scalable web architectures, B2B SaaS applications, and custom business solutions.
 
 Founder at **Rino Agency** 🚀
